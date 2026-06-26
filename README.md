@@ -93,13 +93,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&icon_color=D97706&hide_border=true&border_radius=12&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&icon_color=D97706&hide_border=true&border_radius=12&rank_icon=github&hide=stars"/>
   &nbsp;
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelaJabir&background=0d1117&ring=C9A96E&fire=D97706&currStreakNum=ffffff&currStreakLabel=C9A96E&sideNums=ffffff&sideLabels=C9A96E&dates=888888&hide_border=true&border_radius=12"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelaJabir&background=0d1117&ring=C9A96E&fire=D97706&currStreakNum=ffffff&currStreakLabel=C9A96E&sideNums=ffffff&sideLabels=C9A96E&dates=888888&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JameelaJabir&layout=compact&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&hide_border=true&border_radius=12" width="50%"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JameelaJabir&layout=compact&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&hide_border=true&border_radius=12&langs_count=6"/>
 </p>
 
 ---
