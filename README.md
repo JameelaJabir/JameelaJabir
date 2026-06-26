@@ -93,12 +93,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JameelaJabir&theme=tokyonight&hide_border=true" width="48%"/>
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&icon_color=D97706&hide_border=true&border_radius=12&rank_icon=github"/>
+  &nbsp;
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelaJabir&background=0d1117&ring=C9A96E&fire=D97706&currStreakNum=ffffff&currStreakLabel=C9A96E&sideNums=ffffff&sideLabels=C9A96E&dates=888888&hide_border=true&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JameelaJabir&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JameelaJabir&layout=compact&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&hide_border=true&border_radius=12" width="50%"/>
 </p>
 
 ---
@@ -108,22 +109,24 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║               DEVELOPER STATUS MONITOR                   ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   Coffee Level       ████████░░   80%    [ critical ]   ║
-║   Bug Count          ░░░░░░░░░░    0%    [ features™ ]  ║
-║   Commit Energy      ██████████  100%    [ always on ]  ║
-║   Brain.exe          ▓▓▓▓▓▓░░░░  60%    [ loading...  ] ║
-║   Imposter Syndrome  ████░░░░░░   0%    [ I'm fine :) ] ║
-║                                                          ║
-║   > Status: turning caffeine into commits since 2022     ║
-║   > Location: Abu Dhabi                                  ║
-║   > Last deploy: successful (probably)                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+```javascript
+const jameela = {
+  name        : "Jameela Jabir",
+  location    : "Abu Dhabi, UAE 🇦🇪  |  Sri Lankan 🇱🇰",
+  role        : "Full Stack Engineer  |  AI/ML Engineer",
+
+  // ─── system vitals ───────────────────────────────────────
+  coffee      : "80%",    // ☕ CRITICAL — someone send help
+  bugs        : 0,        // 🐛 we don't have bugs here, only features™
+  commit_energy : "100%", // 🚀 running 24 / 7, no off switch found
+  brain_exe   : "60%",    // 🧠 still loading... please wait
+  work_life_balance : null, // 🌙 undefined — what even is that?
+
+  // ─── runtime logs ────────────────────────────────────────
+  status      : "turning caffeine into commits since 2022 ⚡",
+  last_deploy : "successful (probably 🤞)",
+  open_to     : "exciting roles in UAE 🚀",
+};
 ```
 
 <!-- Footer — matching warm golden soft curve -->
