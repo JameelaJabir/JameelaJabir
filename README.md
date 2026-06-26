@@ -93,7 +93,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&icon_color=D97706&hide_border=true&border_radius=12&rank_icon=github&hide=stars"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JameelaJabir&show_icons=true&bg_color=0d1117&title_color=C9A96E&text_color=e6e6e6&icon_color=D97706&hide_border=true&border_radius=12&rank_icon=github&hide=stars&include_all_commits=true&count_private=true"/>
   &nbsp;
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=JameelaJabir&background=0d1117&ring=C9A96E&fire=D97706&currStreakNum=ffffff&currStreakLabel=C9A96E&sideNums=ffffff&sideLabels=C9A96E&dates=888888&hide_border=true&border_radius=12"/>
 </p>
