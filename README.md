@@ -130,6 +130,16 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake.svg" />
+  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake.svg" />
+</picture>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
