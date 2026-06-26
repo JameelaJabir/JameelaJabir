@@ -1,22 +1,37 @@
-<h1 align="center">Hi 👋, I'm Jameela Jabir</h1>
-<h3 align="center">Full Stack Software Engineer | Rust · Python · React/Next.js | AI/ML & Cloud</h3>
+<!-- Header — soft curve, warm golden tone matching LinkedIn -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=C9A96E&height=180&section=header&text=Jameela%20Jabir&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=50&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Abu%20Dhabi%2C%20UAE%20%F0%9F%87%A6%F0%9F%87%AA&descAlignY=70&descSize=17"/>
 
+<!-- Profile views -->
 <p align="center">
-  🚀 Building scalable applications, intelligent systems & secure digital solutions<br/>
+  <img src="https://komarev.com/ghpvc/?username=JameelaJabir&label=Profile+Views&color=C9A96E&style=for-the-badge"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/JameelaJabir?label=Followers&style=for-the-badge&color=C9A96E&logoColor=white"/>
+</p>
+
+<!-- Two-column: cartoon left | typewriter + about right -->
+<table align="center" border="0" cellpadding="20" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="220">
+  <img src="./assets/cartoon.png" width="200" style="border-radius: 20px;"/>
+</td>
+<td align="left" valign="middle">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1200&color=D97706&center=false&vCenter=true&width=480&lines=Full+Stack+Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Scalable%2C+Intelligent+%26+Secure+Systems;Rust+%C2%B7+Python+%C2%B7+React%2FNext.js+%C2%B7+MERN+Stack;Based+in+Abu+Dhabi%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA+%7C+Sri+Lankan+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG"/><br/><br/>
+  🚀 Building scalable apps, intelligent systems & secure solutions<br/>
   💻 1.5+ years of industry experience at QCETL<br/>
-  🎓 BSc (Hons) IT - Software Engineering @ SLIIT (2022–2026)<br/>
-  🇱🇰 Sri Lankan · 📍 Abu Dhabi, UAE
-</p>
-
-<p align="center">
+  🎓 BSc (Hons) IT · SLIIT · 2022–2026<br/>
+  🇱🇰 Sri Lankan &nbsp;·&nbsp; 📍 Abu Dhabi, UAE<br/><br/>
   <a href="https://www.linkedin.com/in/jameela08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jamyjabir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.springforge.dev/"><img src="https://img.shields.io/badge/SpringForge-Live%20Project-3FA9A0?style=for-the-badge"/></a>
-</p>
+  &nbsp;
+  <a href="mailto:jamyjabir@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.springforge.dev/"><img src="https://img.shields.io/badge/SpringForge-%F0%9F%94%97%20Live-C9A96E?style=for-the-badge"/></a>
+</td>
+</tr>
+</table>
 
 ---
 
-### Tech Stack
+### 🧰 Tech Stack
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -88,20 +103,28 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake.svg" />
-  <img alt="Snake animation of contribution graph" src="https://raw.githubusercontent.com/JameelaJabir/JameelaJabir/output/snake.svg" />
-</picture>
-
----
-
-### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jameela08/">LinkedIn</a> ·
-  <a href="mailto:jamyjabir@gmail.com">Email</a> ·
-  <a href="https://www.springforge.dev/">SpringForge</a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 </p>
+
+```
+╔══════════════════════════════════════════════════════════╗
+║               DEVELOPER STATUS MONITOR                   ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║   Coffee Level       ████████░░   80%    [ critical ]   ║
+║   Bug Count          ░░░░░░░░░░    0%    [ features™ ]  ║
+║   Commit Energy      ██████████  100%    [ always on ]  ║
+║   Brain.exe          ▓▓▓▓▓▓░░░░  60%    [ loading...  ] ║
+║   Imposter Syndrome  ████░░░░░░   0%    [ I'm fine :) ] ║
+║                                                          ║
+║   > Status: turning caffeine into commits since 2022     ║
+║   > Location: Abu Dhabi                                  ║
+║   > Last deploy: successful (probably)                   ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+<!-- Footer — matching warm golden soft curve -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=C9A96E&height=100&section=footer"/>
