@@ -3,9 +3,9 @@
 
 <p align="center">
   🚀 Building scalable applications, intelligent systems & secure digital solutions<br/>
-  💻 1.5+ years of industry experience at QCETL — payments, AI voice agents, network infrastructure & platform engineering<br/>
-  🎓 BSc (Hons) IT — Software Engineering @ SLIIT (2022–2026)<br/>
-  📍 Sri Lanka · Open to relocating to the UAE
+  💻 1.5+ years of industry experience at QCETL<br/>
+  🎓 BSc (Hons) IT - Software Engineering @ SLIIT (2022–2026)<br/>
+  🇱🇰 Sri Lankan · 📍 Abu Dhabi, UAE
 </p>
 
 <p align="center">
@@ -38,6 +38,9 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Axum-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
 **Databases & Cloud**
@@ -60,60 +63,15 @@
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 </p>
 
----
-
-### 🏢 Professional Experience — QCETL Private Limited (Remote)
-
-**Associate Software Engineer** · Sep 2025 – Present
-- Built **QC Pay**, a Flutter/Rust mobile payment wallet with HMAC-signed QR payments, SSO, AES-256-GCM client-side encryption, and PayHere gateway integration.
-- Built **QC Bot**, a Rust-based AI voice agent integrating Asterisk/ARI telephony with OpenAI's Realtime API for live customer calls.
-- Developed **QCM IPAM**, a network infrastructure management tool (Rust/React) with DNS/DHCP integration.
-- Contributed to **Multinational Recruit**, a Rust/Axum + Next.js recruitment platform.
-
-**Software Engineer Intern** · Mar 2025 – Sep 2025
-- Built **QCAuth**, a centralized authentication microservice (FastAPI) with OAuth 2.0 SSO, JWT, and TOTP-based 2FA.
-- Developed a microservice-based **Inventory Management System** with real-time WebSocket notifications and multi-language UI.
-- Built a **Firewall Change Management System** within an internal ITSM platform, with multi-stage approval workflows.
-
----
-
-### 🎓 Featured Academic & Research Projects
-
-#### 🔧 [SpringForge](https://www.springforge.dev/) — AI-Driven IntelliJ Plugin for Spring Boot Development
-*Individual Research Component — Final Year Dissertation*
-- Built an architecture-aware **Code Quality Assurance Engine** for Spring Boot projects (Layered, Hexagonal, Clean, MVC styles).
-- Trained **two ML models** on 141,000+ samples from 120+ GitHub repos: a **Random Forest classifier** (9 anti-pattern types, macro F1 ≈ 0.95) and an **XGBoost regression model** for code quality scoring (R² ≈ 0.90).
-- Combined ML scoring with **Google Gemini LLM validation** to filter false positives and generate AI-powered fix suggestions.
-- Deployed via a **FastAPI** microservice, cutting fix-generation time from ~120s to ~30s.
-- Rebuilt the **Kotlin** plugin UI with a six-tab quality report dialog.
-
-`Kotlin` `Python` `FastAPI` `scikit-learn` `XGBoost` `Google Gemini API` `IntelliJ Platform SDK` `JavaParser`
-
-#### 🍽️ [Food Delivery System](https://github.com/JameelaJabir/Food-Delivery-System-Backend) — Microservices Architecture
-- Full-stack food delivery platform with **5 microservices** (Auth, Restaurant, Order, Delivery, Notification) orchestrated via Kubernetes & NGINX.
-- Multi-role JWT + Google OAuth 2.0 authentication, Stripe payments, geospatial courier auto-assignment (MongoDB 2dsphere), and real-time GPS tracking.
-
-`Node.js` `Express.js` `Next.js 15` `React 19` `MongoDB` `Docker` `Kubernetes` `Stripe` `Twilio`
-
-#### 🌱 [Plant Disease Detection](https://github.com/JameelaJabir/Plant-Disease-Detection-Deep-Learning) — VGG16 Transfer Learning
-- VGG16 transfer learning model trained on 54,305 leaf images across 38 disease categories — **87.09% validation accuracy**.
-
-`Python` `TensorFlow` `Keras` `VGG16` `NumPy`
-
-#### 💰 [Medical Insurance Price Prediction](https://github.com/JameelaJabir/Medical-Insurance-Price-Prediction) — Support Vector Regression
-- SVR model (RBF kernel) on a 100,000-record dataset, achieving **R² of 0.7555** via RandomizedSearchCV tuning.
-
-`Python` `scikit-learn` `Pandas` `NumPy`
-
-#### 🏖️ Leisure-Hub — Full-Stack MERN Leisure Management System
-- RBAC, JWT auth, OTP-verified payments, bcrypt encryption, booking/scheduling, and inventory tracking.
-
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
-
-#### 🏥 Online-E-channeling-System — Healthcare Web Application
-- Full-stack appointment channeling system using MVC architecture with a DAO pattern for database abstraction.
-
-`Java Servlets` `JSP` `MySQL` `Bootstrap`
+**Tools & IDEs**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
