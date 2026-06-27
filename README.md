@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=20&pause=1200&color=D97706&center=false&vCenter=true&width=480&lines=Full+Stack+Software+Engineer+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+Scalable%2C+Intelligent+%26+Secure+Systems;Rust+%C2%B7+Python+%C2%B7+React%2FNext.js+%C2%B7+MERN+Stack;Based+in+Abu+Dhabi%2C+UAE+%F0%9F%87%A6%F0%9F%87%AA+%7C+Sri+Lankan+%F0%9F%87%B1%F0%9F%87%B0" alt="Typing SVG"/><br/><br/>
   🚀 Building scalable apps, intelligent systems & secure solutions<br/>
   💻 1.5+ years of industry experience at QCETL<br/>
-  🎓 BSc (Hons) IT · SLIIT · 2022–2026<br/>
+  🎓 BSc (Hons) IT · Specializing in Software Engineering · SLIIT · 2022–2026<br/>
   🇱🇰 Sri Lankan &nbsp;·&nbsp; 📍 Abu Dhabi, UAE<br/><br/>
   <a href="https://www.linkedin.com/in/jameela08/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
